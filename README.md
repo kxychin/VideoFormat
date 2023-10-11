@@ -1,1 +1,2 @@
-# VideoFormat
+# Video Format Conversion
+In this project, I automated file format conversions using Python, FFprobe, and FFmpeg. Through a streamlined process, I examined files, leveraging FFprobe to gather essential information, and then utilized FFmpeg to convert videos into the desired format. This automation showcases proficiency in scripting, video analysis, and format transformation, providing an efficient solution for file conversions.
