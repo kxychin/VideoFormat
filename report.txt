@@ -1,0 +1,33 @@
+Report for file Ex3_Flims/Cosmos_War_of_the_Planets.mp4
+-- Wrong frame rate. Expected 25 FPS, found 29.97002997002997 FPS 
+-- Wrong aspect ratio. Expected 16:9, found 314:177
+-- Wrong resolution. Expected 640x360, found 628x354
+-- Wrong audio bit rate. Expected up to 256 kb/s, found 317.103 kb/s
+==========================================================================================
+Report for file Ex3_Flims/Last_man_on_earth_1964.mov
+-- Wrong video container format. Expected mp4, found .mov 
+-- Wrong video codec. Expected h.264, found prores
+-- Wrong frame rate. Expected 25 FPS, found 23.976023976023978 FPS 
+-- Wrong video bit rate. Expected 2 - 5 Mb/s, found 9.285191 Mb/s
+-- Wrong audio bit rate. Expected up to 256 kb/s, found 1536.0 kb/s
+-- Wrong audio codec. Expected aac, found pcm_s16le
+==========================================================================================
+Report for file Ex3_Flims/The_Gun_and_the_Pulpit.avi
+-- Wrong video container format. Expected mp4, found .avi 
+-- Wrong video codec. Expected h.264, found rawvideo
+-- Wrong aspect ratio. Expected 16:9, found 0:1
+-- Wrong resolution. Expected 640x360, found 720x404
+-- Wrong video bit rate. Expected 2 - 5 Mb/s, found 87.438878 Mb/s
+-- Wrong audio bit rate. Expected up to 256 kb/s, found 1536.0 kb/s
+-- Wrong audio codec. Expected aac, found pcm_s16le
+==========================================================================================
+Report for file Ex3_Flims/The_Hill_Gang_Rides_Again.mp4
+-- Wrong video bit rate. Expected 2 - 5 Mb/s, found 7.53773 Mb/s
+==========================================================================================
+Report for file Ex3_Flims/Voyage_to_the_Planet_of_Prehistoric_Women.mp4
+-- Wrong video codec. Expected h.264, found hevc
+-- Wrong frame rate. Expected 25 FPS, found 29.97002997002997 FPS 
+-- Wrong video bit rate. Expected 2 - 5 Mb/s, found 8.038857 Mb/s
+-- Wrong audio bit rate. Expected up to 256 kb/s, found 320.0 kb/s
+-- Wrong audio codec. Expected aac, found mp3
+==========================================================================================
